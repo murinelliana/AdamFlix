@@ -20,3 +20,17 @@ section {
     justify-content: center; /* centralizar */
 }
 
+.chamada-texto {
+    margin-right: 15%;
+}
+
+img {
+    height: 200px;
+}
+
+.categoria-videos{
+    display: flex;
+    overflow-x: auto; /* permite rolagem horizontal automática quando o conteúdo exeder a largura da tela */
+    gap: 10px; /* adiciona espaçamento entre os elementos*/
+}
+
