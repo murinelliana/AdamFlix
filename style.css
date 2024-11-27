@@ -4,11 +4,12 @@ body {
 }
 
 header {
-    color: aliceblue;;
+    color: aliceblue;
+    font-size: 50px;
 }
 
 h2 {
-    color: aliceblue;;
+    color: aliceblue;
 }
 
 section {
