@@ -16,16 +16,18 @@ h2 {
 }
 
 .chamada {
-    color:  aliceblue ;
+    color: aliceblue;
     background: #7c8a6e;
-    padding-top: 80px ;
+    padding-top: 80px;
     padding-bottom: 80px;
-    display: flex; /*torna flexível = põe um do lado do outro */
-    justify-content: center; /* centralizar */
+    display: flex;
+    /*torna flexível = põe um do lado do outro */
+    justify-content: center;
+    /* centralizar */
 }
 
 .chamada-texto {
-    margin-right: 5%;
+    margin-right: 25%;
 }
 
 img {
@@ -37,9 +39,10 @@ img {
     padding-right: 20px;
 }
 
-.categoria-videos{
+.categoria-videos {
     display: flex;
-    overflow-x: auto; /* permite rolagem horizontal automática quando o conteúdo exeder a largura da tela */
-    gap: 10px; /* adiciona espaçamento entre os elementos*/
+    overflow-x: auto;
+    /* permite rolagem horizontal automática quando o conteúdo exceder a largura da tela */
+    gap: 10px;
+    /* adiciona espaçamento entre os elementos*/
 }
-
